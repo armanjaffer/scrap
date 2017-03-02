@@ -1,0 +1,100 @@
+the
+of
+and
+in
+to
+a
+is
+for
+with
+that
+as
+by
+are
+at
+be
+this
+on
+from
+can
+was
+an
+which
+it
+we
+energy
+fig
+have
+or
+has
+using
+these
+were
+used
+been
+cells
+also
+between
+high
+not
+than
+cell
+temperature
+such
+surface
+two
+flow
+shown
+sample
+due
+one
+('of', 'the')
+('in', 'the')
+('to', 'the')
+('on', 'the')
+('and', 'the')
+('can', 'be')
+('for', 'the')
+('from', 'the')
+('that', 'the')
+('with', 'the')
+('at', 'the')
+('is', 'the')
+('by', 'the')
+('in', 'fig')
+('in', 'a')
+('due', 'to')
+('of', 'a')
+('with', 'a')
+('to', 'be')
+('it', 'is')
+('as', 'a')
+('has', 'been')
+('shown', 'in')
+('as', 'the')
+('in', 'this')
+('such', 'as')
+('to', 'a')
+('between', 'the')
+('is', 'a')
+('have', 'been')
+('used', 'to')
+('the', 'same')
+('the', 'sample')
+('which', 'is')
+('for', 'a')
+('based', 'on')
+('and', 'a')
+('by', 'a')
+('number', 'of')
+('the', 'first')
+('into', 'the')
+('using', 'a')
+('a', 'single')
+('this', 'is')
+('through', 'the')
+('than', 'the')
+('as', 'shown')
+('using', 'the')
+('where', 'the')
+('compared', 'to')
